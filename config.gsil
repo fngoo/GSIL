@@ -1,5 +1,5 @@
 [mail]
-host : smtp.exmail.qq.com
+host : smtp.qq.com
 port : 25
 mails : 410046251@qq.com
 from : 410046251@qq.com
