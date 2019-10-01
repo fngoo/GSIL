@@ -1,0 +1,12 @@
+[mail]
+host : smtp.exmail.qq.com
+port : 25
+mails : 410046251@qq.com
+from : 410046251@qq.com
+password : ubssfotrqytwbief
+to : 410046251@qq.com
+cc : 410046251@qq.com
+
+[github]
+clone : false
+tokens : 34469f569587c36e604ad8a182bf1fce169830ee,7e874b23bbe3566f6926f520874b2982713d6905,8c10e25170ccf6b42d32a5996f844b7ef8f68155
