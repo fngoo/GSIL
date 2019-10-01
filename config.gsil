@@ -1,6 +1,6 @@
 [mail]
 host : smtp.qq.com
-port : 25
+port : 587
 mails : 410046251@qq.com
 from : 410046251@qq.com
 password : ubssfotrqytwbief
