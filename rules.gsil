@@ -1,7 +1,5 @@
 {
-    # 一级分类，一般使用公司名，用作开启扫描的第一个参数（python gsil.py test）
     "dot": {
-        # 二级分类，一般使用产品线
         "Chef private key": {},
         "Potential Linux shadow file": {},
         "Potential Linux passwd file": {},
