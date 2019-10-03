@@ -1,11 +1,11 @@
 [mail]
 host : smtp.qq.com
 port : 587
-mails : 410046251@qq.com
-from : 410046251@qq.com
+mails : 123451@qq.com
+from : 123451@qq.com
 password : ubssfotrqytwbief
-to : 410046251@qq.com
-cc : 410046251@qq.com
+to : 123451@qq.com
+cc : 123451@qq.com
 
 [github]
 clone : false
